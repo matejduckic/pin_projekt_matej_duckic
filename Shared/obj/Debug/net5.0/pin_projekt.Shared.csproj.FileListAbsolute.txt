@@ -1,0 +1,12 @@
+C:\Users\Dell\Documents\pin_projekt\pin_projekt\Shared\bin\Debug\net5.0\pin_projekt.Shared.deps.json
+C:\Users\Dell\Documents\pin_projekt\pin_projekt\Shared\bin\Debug\net5.0\pin_projekt.Shared.dll
+C:\Users\Dell\Documents\pin_projekt\pin_projekt\Shared\bin\Debug\net5.0\ref\pin_projekt.Shared.dll
+C:\Users\Dell\Documents\pin_projekt\pin_projekt\Shared\bin\Debug\net5.0\pin_projekt.Shared.pdb
+C:\Users\Dell\Documents\pin_projekt\pin_projekt\Shared\obj\Debug\net5.0\pin_projekt.Shared.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\pin_projekt\pin_projekt\Shared\obj\Debug\net5.0\pin_projekt.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\pin_projekt\pin_projekt\Shared\obj\Debug\net5.0\pin_projekt.Shared.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\pin_projekt\pin_projekt\Shared\obj\Debug\net5.0\pin_projekt.Shared.AssemblyInfo.cs
+C:\Users\Dell\Documents\pin_projekt\pin_projekt\Shared\obj\Debug\net5.0\pin_projekt.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\pin_projekt\pin_projekt\Shared\obj\Debug\net5.0\pin_projekt.Shared.dll
+C:\Users\Dell\Documents\pin_projekt\pin_projekt\Shared\obj\Debug\net5.0\ref\pin_projekt.Shared.dll
+C:\Users\Dell\Documents\pin_projekt\pin_projekt\Shared\obj\Debug\net5.0\pin_projekt.Shared.pdb
